@@ -1,0 +1,16 @@
+.text-art {
+  margin: 20px auto;
+  color: #a9f0d1;
+  font-family: monospace;
+  font-size: 9px;
+  line-height: 1.1;
+  text-align: left;
+  white-space: pre;
+  overflow-x: auto;
+  max-width: 100%;
+}
+.jersey-10-regular {
+  font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
